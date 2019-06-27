@@ -1,0 +1,10 @@
+sftp_host=127.0.0.1
+sftp_port=22
+sftp_user=user
+sftp_password=password
+sftp_remote_dir=/home/download
+local_dir=C:\temp
+sql_user=user
+sql_password=password
+sql_database=telcotestdatabase
+sql_table=list_of_files
